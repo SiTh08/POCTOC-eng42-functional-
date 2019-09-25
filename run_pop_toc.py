@@ -14,3 +14,6 @@ while user_input != 'p':
         print('POP')
     else:
         print(user_input)
+
+
+# input = int(input)
